@@ -1,16 +1,13 @@
-### Hi there 👋
+# Welcome to my repository 👋
 
-<!--
-**MateDawid/MateDawid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔭 I’m currently working on
+Improving my skills in Python.
 
-Here are some ideas to get you started:
+### 🌱 I’m currently learning
+Better practices in Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👯 I’m looking to
+Job, that would allow me to improve my skills in Python.
+
+### 📫 How to reach me 
+Email - mateusiakdawid@gmail.com | LinkedIn - https://www.linkedin.com/in/matedawid/
