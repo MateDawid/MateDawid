@@ -1,4 +1,4 @@
-# Welcome to my repository 👋
+# Welcome to my repository 
 
 ## 🔭 I’m currently working on
 Improving my skills in Python.
