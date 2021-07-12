@@ -1,7 +1,7 @@
 # Welcome to my repository 
 
 ## 🔭 I’m currently working on
-Improving my skills in Python.
+Improving my skills in Python and Django.
 
 ## 💡 My projects
 * [Django-flat-browser](https://github.com/MateDawid/Django-flat-browser) - Django app aggregating flats in chosen city, price and surface area from websites and API.
