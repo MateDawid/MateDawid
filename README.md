@@ -4,10 +4,11 @@
 Improving my skills in Python and Django.
 
 ## 💡 My projects
+* [How I Learned To Code](https://github.com/MateDawid/How_I_Learned_To_Code) - Django blog app designed to record information gained while learning programming.
 * [Django_Flat_Browser](https://github.com/MateDawid/Django-flat-browser) - Django app aggregating flats in chosen city, price and surface area from websites and API.
 * [Django_Video_Analyzer](https://github.com/MateDawid/DjangoVideoAnalyzer) - Django app capturing image from webcam and detecting shapes, colors and faces.
 * [Desktop_Flat_Browser](https://github.com/MateDawid/Desktop-flat-browser) - Desktop app aggregating flats in chosen city, price and surface area from websites.
-* [Video_Analyzer](https://github.com/MateDawid/Video-Analyzer) - Desktop app dedicated to capture screen from webcam and detect green colour and circles on it.
+* [Simple_Video_Analyzer](https://github.com/MateDawid/Video-Analyzer) - Desktop app dedicated to capture screen from webcam and detect green colour and circles on it.
 * [Django_Content_Aggregator](https://github.com/MateDawid/Content-aggregator) - Content aggregator application in Django.
 * [PyQt5_Calculator](https://github.com/MateDawid/PyQt5-Calculator) - Simple object-oriented calculator basing on PyQt5.
 * [TicTacToe](https://github.com/MateDawid/TicTacToe) - Simple TicTacToe game based on pygame.
