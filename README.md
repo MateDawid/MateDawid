@@ -7,6 +7,7 @@ Improving my skills in Python and Django.
 * [How I Learned To Code](https://github.com/MateDawid/How_I_Learned_To_Code) - Django blog app designed to record information gained while learning programming.
 * [Django_Flat_Browser](https://github.com/MateDawid/Django-flat-browser) - Django app aggregating flats in chosen city, price and surface area from websites and API.
 * [Django_Video_Analyzer](https://github.com/MateDawid/DjangoVideoAnalyzer) - Django app capturing image from webcam and detecting shapes, colors and faces.
+* [SpotifyDownloader](https://github.com/MateDawid/SpotifyDownloader) - Python app enabling to download songs from and sort your Spotify favourite playlist. 
 * [Desktop_Flat_Browser](https://github.com/MateDawid/Desktop-flat-browser) - Desktop app aggregating flats in chosen city, price and surface area from websites.
 * [Simple_Video_Analyzer](https://github.com/MateDawid/Video-Analyzer) - Desktop app dedicated to capture screen from webcam and detect green colour and circles on it.
 * [Django_Content_Aggregator](https://github.com/MateDawid/Content-aggregator) - Content aggregator application in Django.
