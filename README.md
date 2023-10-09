@@ -1,7 +1,7 @@
 # Welcome to my repository 
 
 ## 💡 To Do
-🔨 [BudgetManager](https://github.com/MateDawid/BudgetManager) Home budget aplication API in Django REST Framework\
+🔨 [BudgetManager](https://github.com/MateDawid/BudgetManager) - Home budget aplication API in Django REST Framework\
 🔜 Home budget aplication frontend in React\
 🔜 Spotify account managing API in Django REST Framework\
 🔜 Spotify account managing frontend in React\
