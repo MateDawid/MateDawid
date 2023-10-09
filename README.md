@@ -1,8 +1,12 @@
 # Welcome to my repository 
 
-## 🔭 I’m currently working on
-Improving my skills in Python and Django.
-
+## 🔭 Goals
+[ ] Home budget aplication API in Django REST Framework
+[ ] Home budget aplication frontend in React
+[ ] Spotify account managing API in Django REST Framework
+[ ] Spotify account managing frontend in React
+[ ] Laboratory app API in Django REST Framework
+[ ] Laboratory app frontend in React
 ## 💡 My projects
 * [Django_Video_Analyzer](https://github.com/MateDawid/DjangoVideoAnalyzer) - Django app capturing image from webcam and detecting shapes, colors and faces.
 * [SpotifyDownloader](https://github.com/MateDawid/SpotifyDownloader) - Python app enabling to download songs from and sort your Spotify favourite playlist. 
