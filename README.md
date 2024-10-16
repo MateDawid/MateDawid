@@ -1,7 +1,8 @@
 # Welcome to my repository 
 
 ## 💡 Active projects
-🔨 [BudgetManager](https://github.com/MateDawid/BudgetManager) - Application for home budget planning and tracking. API (Django REST Framework) & Frontend (React)
+🔨 [BudgetManager_Backend](https://github.com/MateDawid/BudgetManager_Backend) - API for app handling home budget planning and tracking. Developed in Django REST Framework.
+🔨 [BudgetManager_Frontend](https://github.com/MateDawid/BudgetManager_Frontend) - Client for app handling  budget planning and tracking. Developed with React.
 ## ✔️ Finished projects
 ✅ [Django_Video_Analyzer](https://github.com/MateDawid/DjangoVideoAnalyzer) - Django app capturing image from webcam and detecting shapes, colors and faces.\
 ✅ [SpotifyDownloader](https://github.com/MateDawid/SpotifyDownloader) - Python app enabling to download songs from and sort your Spotify favourite playlist. \
