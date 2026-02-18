@@ -1,6 +1,6 @@
 # Welcome 👋
 
-I'm a Backend developer primarily working with Python and Django REST Framework but with expertise in frontend technologies like JavaScript, TypeScript and React.
+I'm a Backend Developer primarily working with Python and Django REST Framework but with expertise in frontend technologies like JavaScript, TypeScript and React.
 
 ---
 
