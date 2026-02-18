@@ -5,10 +5,12 @@ I'm a Backend developer primarily working with Python and Django REST Framework 
 ---
 
 ## 💡 Projects
-🔨 Budgetory - Full stack application for managing personal finances.
+🔨 **Budgetory** - Full stack application for managing personal finances.
   * [Backend](https://github.com/MateDawid/Budgetory_Backend) — Django REST Framework API.
   * [Frontend](https://github.com/MateDawid/Budgetory_Frontend) — React client.
-🔨 [Kindle-Clippings-CLI](https://github.com/MateDawid/Kindle-Clippings-CLI) - CLI for converting Kindle Clippings from raw text to .json and .xlsx formats.
+
+🔨 [**Kindle-Clippings-CLI**](https://github.com/MateDawid/Kindle-Clippings-CLI) - CLI for converting Kindle Clippings from raw text to .json and .xlsx formats.
+
 ---
 
 ## 🛠️ Tech Stack
