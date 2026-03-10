@@ -5,11 +5,21 @@ I'm a Backend Developer primarily working with Python and Django REST Framework 
 ---
 
 ## 💡 Projects
-🔨 **Budgetory** - Full stack application for managing personal finances.
-  * [Backend](https://github.com/MateDawid/Budgetory_Backend) — Django REST Framework API.
-  * [Frontend](https://github.com/MateDawid/Budgetory_Frontend) — React client.
+### 🔨 [**BudgetoryApp**](https://github.com/MateDawid/BudgetoryApp)
 
-🔨 [**Kindle-Clippings-CLI**](https://github.com/MateDawid/Kindle-Clippings-CLI) - CLI for converting Kindle Clippings from raw text to .json and .xlsx formats.
+![Python](https://img.shields.io/badge/python-3.12-blue)
+![Django](https://img.shields.io/badge/django-092E20?logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/DRF-ff1709?style=flat&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/react-18-61DAFB?logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-ES6-F7DF1E?logo=javascript&logoColor=black)
+
+Full stack application for managing personal finances. Consists of Django REST Framework API and React client. 
+
+### 🔨 [**Kindle-Clippings-CLI**](https://github.com/MateDawid/Kindle-Clippings-CLI)
+
+![Python](https://img.shields.io/badge/python-3.12-blue)
+
+CLI for converting Kindle Clippings from raw text to .json and .xlsx formats.
 
 ---
 
