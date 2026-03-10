@@ -15,6 +15,8 @@ I'm a Backend Developer primarily working with Python and Django REST Framework 
 
 Full stack application for managing personal finances. Consists of Django REST Framework API and React client. 
 
+![app-flow.gif](https://github.com/MateDawid/BudgetoryApp/blob/master/docs/media/app-flow.gif)
+
 ### 🔨 [**Kindle-Clippings-CLI**](https://github.com/MateDawid/Kindle-Clippings-CLI)
 
 ![Python](https://img.shields.io/badge/python-3.12-blue)
